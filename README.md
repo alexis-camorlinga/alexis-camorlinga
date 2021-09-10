@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alexis Camorlinga</h1>
-<h3 align="center">A Fresh Graduate in Software Engineer</h3>
+<h3 align="center">A Fresh Graduate in Front End Web Develeper</h3>
 
 
 <!-- trophys -->
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **more open projects**
 
-- 🎓 As of August 27, 2021 **Graduated Kenzie Academy**
+- 🎓 As of September 2, 2021 **Graduated Kenzie Academy**
 <!-- cash me outside  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
